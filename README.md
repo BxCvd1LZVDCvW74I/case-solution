@@ -36,7 +36,7 @@ $ docker build -t philips-case -f Dockerfile .
 - Link: <a href="https://drive.google.com/file/d/1Lv6_2hVZcOBVt-ipI28CPd2tsc0xkUfU/view?usp=sharing
 " target="_blank">`Presentation`</a>
 
-## Google Colab
+## Google Colab for Alternative Inference Mode
 
 - In this Google Colab notebook, I reproduced the results due to possible errors from Docker Toolbox for Windows 10 Home edition:
 - Please run the notebook until cloning the repository.
