@@ -3,7 +3,7 @@
 > Image classifier for Philips products.
 
 ---
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Google Colab](#colab)
