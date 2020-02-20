@@ -33,7 +33,8 @@ $ docker build -t philips-case -f Dockerfile .
 
 - For this case, I prepared a presentation about my approach to establish an image classification model, including dataset description and training results.
 
-/link/to/pdf
+- Link: <a href="https://drive.google.com/file/d/1Lv6_2hVZcOBVt-ipI28CPd2tsc0xkUfU/view?usp=sharing
+" target="_blank">`Presentation`</a>
 
 ## Google Colab
 
