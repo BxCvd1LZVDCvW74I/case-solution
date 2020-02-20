@@ -25,7 +25,7 @@
 $ git clone https://github.com/BxCvd1LZVDCvW74I/model.git`
 ```
 ### Setup
-
+- Tested on Docker Toolbox Version: Docker version 19.03.1, build 74b1e89e8a on Windows 10 Home edition
 ```shell
 $ docker build -t philips-case -f Dockerfile .
 ```
