@@ -6,7 +6,7 @@
 ## Table of Contents
 
 - [Installation of Docker Image](#installation)
-- [Google Colab for Alternative Inference Model](#colab)
+- [Google Colab for Alternative Inference Model](#google)
 - [Presentation](#presentation)
 - [Contact](#contact)
 - [License](#license)
