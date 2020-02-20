@@ -29,19 +29,18 @@ $ git clone https://github.com/BxCvd1LZVDCvW74I/model.git`
 ```shell
 $ docker build -t philips-case -f Dockerfile .
 ```
-### Setup
+### Presentation
 
-- For this case, I prepared a presentation about my approach to establish an image classification model.
+- For this case, I prepared a presentation about my approach to establish an image classification model, including dataset description and training results.
 
 /link/to/pdf
 
 ## Google Colab
 
 - In this Google Colab notebook, I reproduced the results due to possible errors from Docker Toolbox for Windows 10 Home edition:
-- Please run the notebook until cloning the repository and delete README.md file in model/val-images folder from Files tab in left.
+- Please run the notebook until cloning the repository.
 - After cloning this repository is done, please upload test images to model/val-images folder and run the other cells to reproduce results.
-
-/link/to/colab
+- Link: <a href="https://colab.research.google.com/drive/1xVP4TRCD_y6Azh5uwbZkXCUxDveaWfyM" target="_blank">`Colab Notebook`</a>
 
 ## Contact
 
@@ -49,10 +48,3 @@ I'll be checking my e-mail through the competition. Contact information:
 - E-mail: <a href="mailto:mburakbozbey@outlook.com" target="_blank">`mburakbozbey@outlook.com`</a>
 - Website at <a href="https://mburakbozbey.github.io/" target="_blank">`mburakbozbey.github.io`</a>
 - Linkedin at <a href="https://www.linkedin.com/in/mburakbozbey/" target="_blank">`@mburakbozbey`</a>
-
----
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
