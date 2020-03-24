@@ -8,8 +8,11 @@
 - [Installation of Docker Image](#installation)
 - [Google Colab for Alternative Inference Model](#google)
 - [Presentation](#presentation)
+- [Dataset Description](#description)
+- [Training Results](#training)
+- [Validation Results](#validation)
 - [Contact](#contact)
-- [License](#license)
+
 
 ---
 
@@ -42,6 +45,22 @@ $ docker build -t philips-case -f Dockerfile .
 - Please run the notebook until cloning the repository.
 - After cloning this repository is done, please upload test images to model/val-images folder and run the other cells to reproduce results.
 - Link: <a href="https://colab.research.google.com/drive/1xVP4TRCD_y6Azh5uwbZkXCUxDveaWfyM" target="_blank">`Colab Notebook`</a>
+
+## Training Results
+
+![Image](https://ibb.co/zGRdjQ2)
+
+## Validation Results
+
+![Image](https://ibb.co/fnK96dh)
+
+## Dataset Description
+
+Image dataset created by using product review videos from Youtube.
+- Wake up light : 13.311 images
+- Tootbrush : 13.999 images
+- Shaver : 14.519 images
+- Smart Baby Bottle : 10.503 images
 
 ## Contact
 
