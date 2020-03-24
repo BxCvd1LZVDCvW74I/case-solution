@@ -6,14 +6,14 @@
 ## Table of Contents
 
 - [Installation of Docker Image](#installation)
-- [Google Colab for Alternative Inference Model](#google)
+- [Clone](#clone)
+- [Setup](#setup)
 - [Presentation](#presentation)
-- [Dataset Description](#description)
-- [Training Results](#training)
-- [Validation Results](#validation)
+- [Colab](#colab)
+- [Dataset Description](#dataset)
+- [Training](#training)
+- [Validation](#validation)
 - [Contact](#contact)
-
-
 ---
 
 ## Installation
@@ -39,22 +39,22 @@ $ docker build -t philips-case -f Dockerfile .
 - Link: <a href="https://drive.google.com/file/d/1Lv6_2hVZcOBVt-ipI28CPd2tsc0xkUfU/view?usp=sharing
 " target="_blank">`Presentation`</a>
 
-## Google Colab for Alternative Inference Model
+## Colab
 
 - In this Google Colab notebook, I reproduced the results due to possible errors from Docker Toolbox for Windows 10 Home edition:
 - Please run the notebook until cloning the repository.
 - After cloning this repository is done, please upload test images to model/val-images folder and run the other cells to reproduce results.
 - Link: <a href="https://colab.research.google.com/drive/1xVP4TRCD_y6Azh5uwbZkXCUxDveaWfyM" target="_blank">`Colab Notebook`</a>
 
-## Training Results
+## Training
 
-![Image](https://i.ibb.co/Tm8ypY0/tr.jpg)
+<img src="https://i.ibb.co/Tm8ypY0/tr.jpg" width="300">
 
-## Validation Results
+## Validation
 
-![Image](https://i.ibb.co/Br7GW2X/cm.jpg)
+<img src="https://i.ibb.co/Br7GW2X/cm.jpg" width="300">
 
-## Dataset Description
+## Dataset
 
 Image dataset created by using product review videos from Youtube.
 - Wake up light : 13.311 images
