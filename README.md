@@ -48,11 +48,11 @@ $ docker build -t philips-case -f Dockerfile .
 
 ## Training Results
 
-![Image](https://ibb.co/zGRdjQ2)
+![Image](https://i.ibb.co/Tm8ypY0/tr.jpg)
 
 ## Validation Results
 
-![Image](https://ibb.co/fnK96dh)
+![Image](https://i.ibb.co/Br7GW2X/cm.jpg)
 
 ## Dataset Description
 
